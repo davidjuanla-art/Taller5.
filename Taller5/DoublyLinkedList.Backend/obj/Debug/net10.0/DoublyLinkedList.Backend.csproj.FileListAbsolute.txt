@@ -1,0 +1,13 @@
+C:\Projects\Taller5\DoublyLinkedList.Backend\bin\Debug\net10.0\DoublyLinkedList.Backend.deps.json
+C:\Projects\Taller5\DoublyLinkedList.Backend\bin\Debug\net10.0\DoublyLinkedList.Backend.dll
+C:\Projects\Taller5\DoublyLinkedList.Backend\bin\Debug\net10.0\DoublyLinkedList.Backend.pdb
+C:\Projects\Taller5\DoublyLinkedList.Backend\obj\Debug\net10.0\DoublyLinkedList.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Taller5\DoublyLinkedList.Backend\obj\Debug\net10.0\DoublyLinkedList.Backend.AssemblyInfoInputs.cache
+C:\Projects\Taller5\DoublyLinkedList.Backend\obj\Debug\net10.0\DoublyLinkedList.Backend.AssemblyInfo.cs
+C:\Projects\Taller5\DoublyLinkedList.Backend\obj\Debug\net10.0\DoublyLinkedList.Backend.csproj.CoreCompileInputs.cache
+C:\Projects\Taller5\DoublyLinkedList.Backend\obj\Debug\net10.0\DoublyLinkedList.Backend.sourcelink.json
+C:\Projects\Taller5\DoublyLinkedList.Backend\obj\Debug\net10.0\DoublyLinkedList.Backend.dll
+C:\Projects\Taller5\DoublyLinkedList.Backend\obj\Debug\net10.0\refint\DoublyLinkedList.Backend.dll
+C:\Projects\Taller5\DoublyLinkedList.Backend\obj\Debug\net10.0\DoublyLinkedList.Backend.pdb
+C:\Projects\Taller5\DoublyLinkedList.Backend\obj\Debug\net10.0\ref\DoublyLinkedList.Backend.dll
+C:\Projects\Taller5\DoublyLinkedList.Backend\obj\Debug\net10.0\DoublyLi.317DD6D5.Up2Date

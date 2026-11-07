@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DoublyLinkedList.Fonted/1.0.0": {
+        "dependencies": {
+          "DoublyLinkedList.Backend": "1.0.0"
+        },
+        "runtime": {
+          "DoublyLinkedList.Fonted.dll": {}
+        }
+      },
+      "DoublyLinkedList.Backend/1.0.0": {
+        "runtime": {
+          "DoublyLinkedList.Backend.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoublyLinkedList.Fonted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoublyLinkedList.Backend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
